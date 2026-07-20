@@ -4,7 +4,7 @@ I'm Austin Meyer — a junior full-stack developer finishing up my diploma at **
 
 Before code, I spent years in automotive and general engineering (problem-solving under pressure). These days I'm all-in on building software, especially anywhere I can combine **React**, **Node.js**, and **AI**.
 
-###  Some Stuff I've been working on:
+###  Some projects I've worked on:
 - 🚗 **Vehicle recognition** with Azure AI Vision (insurance premium calculator)
 - 🤖 **Conversational AI** with Anthropic Claude SDK (insurance chatbot)
 - 🗺️ **Full-stack features** — filter preferences for a fuel-station finder (React + Express + MongoDB)
