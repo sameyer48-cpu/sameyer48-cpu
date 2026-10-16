@@ -1,34 +1,22 @@
 ## Hey! 👋
 
-I'm Austin Meyer — a junior full-stack developer finishing up my diploma at **Mission Ready** in New Zealand.
+I'm Austin Meyer, an AI-focused full-stack developer in New Zealand, finishing my diploma at **Mission Ready**.
 
-Before code, I spent years in automotive and general engineering (problem-solving under pressure). These days I'm all-in on building software, especially anywhere I can combine **React**, **Node.js**, and **AI**.
+Right now I'm interning at **Seen Ventures**, building an AI platform that interviews experts by voice and turns what they know into source-cited knowledge, with a person reviewing every piece before it's used. I built the voice interview agent and the background job queue, and got the live demo working end to end. It's a private repo, so it won't show below, but I'm happy to talk through it.
 
-###  Some projects I've worked on:
+Before code, I spent years in automotive and general engineering (problem-solving under pressure). These days I'm all in on building software, especially anywhere I can pair **AI** with clean, practical code.
+
+### Some projects I've worked on:
+
+- 🎙️ **AI knowledge-capture platform** (internship, team project): voice interview agent, job queue and deployment (Python, FastAPI, Next.js, Supabase, Vercel)
 - 🚗 **Vehicle recognition** with Azure AI Vision (insurance premium calculator)
-- 🤖 **Conversational AI** with Anthropic Claude SDK (insurance chatbot)
-- 🗺️ **Full-stack features** — filter preferences for a fuel-station finder (React + Express + MongoDB)
+- 🤖 **Conversational AI** with the Anthropic Claude SDK (insurance chatbot)
+- 🗺️ **Full-stack features**: filter preferences for a fuel-station finder (React + Express + MongoDB)
 
-I have some experience on real team projects using git, PRs, and Kanban boards.
+I work on real team projects with git, pull requests, code review, CI and two-week Scrum sprints.
 
 ### Tech I'm working with:
-React • Node.js • Express • MongoDB • MySQL • Docker • Git • Jest • Claude API • Azure AI
 
-📫 Reach me: [aussie.biz@outlook.co.nz] or [www.linkedin.com/in/austin-meyer-172641335]
+Python • FastAPI • pytest • Next.js • React • TypeScript • Node.js • Express • PostgreSQL / Supabase • MongoDB • MySQL • Vercel • GitHub Actions • Docker • Jest • Claude API • Azure AI
 
-
-
-<!--
-**sameyer48-cpu/sameyer48-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me: [aussie.biz@outlook.co.nz](mailto:aussie.biz@outlook.co.nz) or [LinkedIn](https://www.linkedin.com/in/austin-meyer-172641335)
